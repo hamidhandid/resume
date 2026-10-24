@@ -105,12 +105,12 @@ GPA: 17.62 / 20
 
 ## Honors & Achievements
 
-- **Being a member of Persian Flutter Community and managing [CafeFlutter](https://www.youtube.com/playlist?list=PLkLqGEBCS3qH0JAvlL6ap2Sp1c37nxcy_) sessions** — Allame Helli 5 High School, Tehran, Iran (2017)
+- **Being a member of Persian Flutter Community and managing [CafeFlutter](https://www.youtube.com/playlist?list=PLkLqGEBCS3qH0JAvlL6ap2Sp1c37nxcy_) sessions**
 - **Javacup Certified Professional Developer** — Javacup Association, Tehran, Iran (2018)
 - **Merit-Based Master's Scholarship** — Shahid Beheshti University, Tehran, Iran (2021)
 - **Top 15 Students in Software Engineering** — Shahid Beheshti University, Tehran, Iran (2021)
 - **National University Entrance Exam Rank: 939** — Allame Helli 5 High School, Tehran, Iran (2017)
-- 
+
 ---
 
 ## Additional Information
